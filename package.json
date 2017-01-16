@@ -1,0 +1,17 @@
+{
+  "name": "abyss-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+  "description": "A dark and minimal syntax theme",
+  "keywords": [
+    "dark",
+    "minimal",
+    "theme",
+    "abyss"
+  ],
+  "repository": "https://github.com/codekult/abyss-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
